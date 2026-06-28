@@ -96,24 +96,6 @@ The system provides two primary operating modes: **Master Enrollment** for secur
 * Wire Library
 
 ---
-
-
-## 📷 Demonstration
-
-The OLED provides real-time feedback including:
-
-* Initializing
-* Ready
-* Enrollment Mode
-* Verification Mode
-* Waiting for Finger
-* Finger Found
-* Access Granted
-* Access Denied
-* Enrollment Successful
-* Enrollment Failed
----
----
 ## 📚 Libraries Used
 
 * Adafruit Fingerprint Sensor Library
@@ -128,8 +110,6 @@ The OLED provides real-time feedback including:
 **Mohith K U**
 
 Email: **[mohithmandanna29@gmail.com](mailto:mohithmandanna29@gmail.com)**
-
----
 
 ---
 
