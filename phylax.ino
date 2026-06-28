@@ -3,6 +3,7 @@
 This is the code for fingerprint biometric lock system.
  Author name: Mohith K U
  Author email: mohithmandanna29@gmail.com
+ 
  */
  
 #include <Adafruit_Fingerprint.h>
