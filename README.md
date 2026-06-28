@@ -131,7 +131,7 @@ This repository is shared for portfolio, demonstration, and educational
 reference purposes only.
 
 The source code, documentation, and associated project materials are
-copyright © 2025 Mohith K U. All rights are reserved.
+copyright © 2026 Mohith K U. All rights are reserved.
 
 No permission is granted to copy, modify, redistribute, or use this work,
 in whole or in part, without prior written permission from the author.
